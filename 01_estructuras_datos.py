@@ -21,6 +21,7 @@ print(f"Monto total procesado: {total_monto} BOB")
 # Nueva funcion 
 # Agrega una función que reciba esa lista, convierta los nombres de usuario a mayúsculas y 
 # aplique un filtro para obtener solo aquellos montos superiores a 2000.
+
 usuario_mayusculas = [r["usuario"].upper() for r in registros]
 
 usuario_filtros = [r["usuario"].upper() for r in registros if r["monto"] > 2000]
