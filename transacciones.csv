@@ -1,0 +1,5 @@
+id_transaccion,usuario,monto,fecha,estado
+TX1001,eugenia_mefp,1250.50,2026-11-01,COMPLETADO
+TX1002,juan_perez,0.00,2026-11-01,CANCELADO
+TX1003,carla_gomez,3400.00,2026-11-01,COMPLETADO
+TX1004,marcos_lima,0,2026-11-01,COMPLETADO

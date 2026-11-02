@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TX1001",
+        "usuario": "eugenia_mefp",
+        "monto": 1250.5,
+        "fecha": "2026-11-01"
+    },
+    {
+        "id": "TX1003",
+        "usuario": "carla_gomez",
+        "monto": 3400.0,
+        "fecha": "2026-11-01"
+    }
+]
