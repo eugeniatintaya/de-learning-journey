@@ -44,7 +44,7 @@ def procesar_transacciones_csv(ruta_archivo: Path):
         return []
 
     print(f"✅ Procesamiento finalizado. Validos: {len(transacciones_validas)} | Errores: {registros_con_error}")
-    print(f"Promedio: {promedio}")
+    print(f"Promedio::: {promedio}")
     return transacciones_validas
 
 
