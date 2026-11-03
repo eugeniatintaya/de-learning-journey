@@ -1,0 +1,15 @@
+{
+    "metadatos": {
+        "moneda_base": "USD",
+        "ultima_actualizacion": "Tue, 03 Nov 2026 00:02:31 +0000",
+        "fecha_consulta": "2026-11-02 22:41:20"
+    },
+    "tasas_cambio": {
+        "BOB": 12.137169,
+        "EUR": 0.893269,
+        "ARS": 1544.6507,
+        "BRL": 5.43751,
+        "CLP": 993.985301,
+        "PEN": 3.46461
+    }
+}
