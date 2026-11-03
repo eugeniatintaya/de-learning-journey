@@ -1,5 +1,0 @@
-id_transaccion;usuario;monto;fecha;estado
-TX1001;eugenia_mefp;1250.5;1/11/2026;COMPLETADO
-TX1002;juan_perez;0;1/11/2026;CANCELADO
-TX1003;carla_gomez;3400;1/11/2026;COMPLETADO
-TX1004;marcos_lima;ERROR_MONTO;1/11/2026;COMPLETADO

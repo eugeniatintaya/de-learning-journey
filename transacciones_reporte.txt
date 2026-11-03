@@ -1,0 +1,10 @@
+REPORTE DE TRANSACCIONES
+========================================
+
+TX1003 | carla_gomez | 3400.00 BOB | 2026-11-01
+
+----------------------------------------
+RESUMEN
+total_registros: 1
+monto_total_bob: 3400.0
+monto_promedio_bob: 3400.0
